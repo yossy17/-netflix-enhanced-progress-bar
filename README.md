@@ -10,5 +10,3 @@
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。
-# netflix-enhanced-progress-bar
-# -netflix-enhanced-progress-bar
